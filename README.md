@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm Manuel Jose Barjas. I'm a Software Engineer currently located in Atlanta, Georgia.
+## I'm Manuel Jose Barajas. I'm a Software Engineer currently located in Atlanta, Georgia.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
