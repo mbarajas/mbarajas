@@ -20,6 +20,7 @@ You can use the website to generate badges: https://shields.io/
 ![Go](https://img.shields.io/badge/-Go-black?logo=Go)
 ![Docker](https://img.shields.io/badge/-Docker-black?logo=Docker)
 ![Postgresql](https://img.shields.io/badge/-Postgresql-black?logo=Postgresql)
+![Git](https://img.shields.io/badge/-Git-black?logo=git)
 ![Terraform](https://img.shields.io/badge/-Terraform-black?logo=Terraform)
 
 <!--
