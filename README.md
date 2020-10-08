@@ -1,8 +1,5 @@
 ## Manuel Jose Barajas | Software Engineer | Atlanta, GA
 
-<!-- Your badges
-You can use the website to generate badges: https://shields.io/
--->
 ### Connections
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/mbarajas)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manuel-barajas)
@@ -21,6 +18,7 @@ You can use the website to generate badges: https://shields.io/
 ![Docker](https://img.shields.io/badge/-Docker-black?logo=Docker)
 ![Postgresql](https://img.shields.io/badge/-Postgresql-black?logo=Postgresql)
 ![Git](https://img.shields.io/badge/-Git-black?logo=git)
+![AWS](https://img.shields.io/badge/-AWS-black?logo=amazon)
 ![Terraform](https://img.shields.io/badge/-Terraform-black?logo=Terraform)
 
 ### Quick Facts
