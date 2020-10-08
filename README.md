@@ -11,8 +11,10 @@ You can use the website to generate badges: https://shields.io/
 
 &nbsp;
 
-### Technologies
+### Tools & Technologies
 ![Linux](https://img.shields.io/badge/-Linux-black?logo=Linux)
+![Bash](https://img.shields.io/badge/Bash-black?logo=gnu-bash)
+![Vim](https://img.shields.io/badge/Vim-black?logo=Vim)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?logo=React)
