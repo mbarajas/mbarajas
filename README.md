@@ -1,4 +1,4 @@
-## Manuel Jose Barajas|Software Engineer|Atlanta, GA
+## Manuel Jose Barajas | Software Engineer | Atlanta, GA
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -8,8 +8,6 @@ You can use the website to generate badges: https://shields.io/
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manuel-barajas)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:manuel.jose.barajas@gmail.com)
 [![Twitter](https://img.shields.io/badge/-@_mbarajas-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=mbarajas "Follow on Twitter")
-
-&nbsp;
 
 ### Tools & Technologies
 ![Linux](https://img.shields.io/badge/-Linux-black?logo=Linux)
@@ -25,17 +23,10 @@ You can use the website to generate badges: https://shields.io/
 ![Git](https://img.shields.io/badge/-Git-black?logo=git)
 ![Terraform](https://img.shields.io/badge/-Terraform-black?logo=Terraform)
 
-<!--
-**mbarajas/mbarajas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Quick Facts
+- 🔭 I’m currently working on finding a new opportunity
+- 🌱 I’m currently learning about PWAs, Microcontrollers, and Machine Learning
+- 👯 I’m looking to collaborate on anything out of the ordinary
+- 🤔 I’m looking for help with interview questions
+- 💬 Ask me about my cats
+- ⚡ Fun fact: I love sports, video games, fitness, and superheroes
