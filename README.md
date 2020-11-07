@@ -22,7 +22,7 @@
 ![Terraform](https://img.shields.io/badge/-Terraform-black?logo=Terraform)
 
 ### Quick Facts
-- 🔭 I’m currently working on finding a new opportunity
+- 🔭 I’m currently working at CareStarter
 - 🌱 I’m currently learning about PWAs, Microcontrollers, and Machine Learning
 - 👯 I’m looking to collaborate on anything out of the ordinary
 - 🤔 I’m looking for help with interview questions
