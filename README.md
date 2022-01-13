@@ -1,4 +1,4 @@
-## Manuel Jose Barajas | Technologist| Atlanta, GA
+## Manuel Jose Barajas | Technologist | Atlanta, GA
 
 ### Connections
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/mbarajas)
