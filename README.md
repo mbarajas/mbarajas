@@ -1,4 +1,4 @@
-## Manuel Jose Barajas | Software Engineer | Atlanta, GA
+## Manuel Jose Barajas | Technologist| Atlanta, GA
 
 ### Connections
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/mbarajas)
@@ -14,7 +14,6 @@
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?logo=React)
 ![Python](https://img.shields.io/badge/-Python-black?logo=Python)
-![Go](https://img.shields.io/badge/-Go-black?logo=Go)
 ![Docker](https://img.shields.io/badge/-Docker-black?logo=Docker)
 ![Postgresql](https://img.shields.io/badge/-Postgresql-black?logo=Postgresql)
 ![Git](https://img.shields.io/badge/-Git-black?logo=git)
@@ -22,7 +21,7 @@
 ![Terraform](https://img.shields.io/badge/-Terraform-black?logo=Terraform)
 
 ### Quick Facts
-- 🔭 I’m currently working at CareStarter
+- 💻 I’m currently working at CareStarter
 - 🌱 I’m currently learning about PWAs, Microcontrollers, Blockchains, and Machine Learning
 - 👯 I’m looking to collaborate on anything out of the ordinary
 - 💬 Ask me about my cats
