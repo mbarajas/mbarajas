@@ -21,7 +21,6 @@
 ![Terraform](https://img.shields.io/badge/-Terraform-black?logo=Terraform)
 
 ### Quick Facts
-- 💻 
 - 🌱 I’m currently learning about PWAs, Microcontrollers, Blockchains, and Machine Learning
 - 👯 I’m looking to collaborate on anything out of the ordinary
 - 💬 Ask me about my cats
