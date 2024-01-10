@@ -24,4 +24,4 @@
 - 🌱 I’m currently learning about PWAs, Microcontrollers, Blockchains, and Machine Learning
 - 👯 I’m looking to collaborate on anything out of the ordinary
 - 💬 Ask me about my cats
-- ⚡ Fun fact: I love sports, video games, fitness, and superheroes
+- ⚡ Fun fact: I love sports, video games, fitness, and gardening
