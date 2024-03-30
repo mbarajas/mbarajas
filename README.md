@@ -14,6 +14,7 @@
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?logo=React)
 ![Python](https://img.shields.io/badge/-Python-black?logo=Python)
+![Go](https://img.shields.io/badge/go-black?logo=go)
 ![Docker](https://img.shields.io/badge/-Docker-black?logo=Docker)
 ![Postgresql](https://img.shields.io/badge/-Postgresql-black?logo=Postgresql)
 ![Git](https://img.shields.io/badge/-Git-black?logo=git)
@@ -23,5 +24,5 @@
 ### Quick Facts
 - 🌱 I’m currently learning about PWAs, Microcontrollers, Blockchains, and Machine Learning
 - 👯 I’m looking to collaborate on anything out of the ordinary
-- 💬 Ask me about my cats
+- 💬 Ask me about my travels
 - ⚡ Fun fact: I love sports, video games, fitness, and gardening
